@@ -91,7 +91,7 @@
             <a href="https://en.wikipedia.org/wiki/Star_Wars">Wikipedia</a>
             <a href="https://github.com/laravel/laravel">What runs this</a>
             <form>
-                <input type="hidden">
+                <input type="text" name="user">
                 <input type="submit" value="Reload">
             </form>
         </div>
